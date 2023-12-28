@@ -1,7 +1,7 @@
 //Le lien vers le repo GitHub de votre code:
 
-https://github.com/anastasia99m/Projet5-PrintIt
+https://github.com/anastasia99m/PrintItJs
 
 //Le lien vers la page GitHub Pages du site Print It pour visualiser le résultat:
 
-https://anastasia99m.github.io/Projet5-PrintIt/
+https://anastasia99m.github.io/PrintItJs/
